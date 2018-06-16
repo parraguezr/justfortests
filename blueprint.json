@@ -1,0 +1,9 @@
+{
+  "elements": [
+    {"label": "A"},
+    {"label": "Baco3"}
+  ],
+  "connections": [
+    {"from": "A", "to": "Baco3"}
+  ]
+}
