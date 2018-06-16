@@ -1,19 +1,9 @@
-{
-  "elements": [
-    {
-        "id": "e1",
-        "label": "A"
-    },
-    {
-        "id": "e2",
-        "label": "A"
-    }
-  ],
-  "connections": [
-    {
-        "id": "c1",
-        "from": "e1",
-        "to": "e2"
-    }
-  ]
+{ 
+  "elements": [ 
+    {"label": "A", "type": "Letter", "description": "This is A", "tags": ["one", "two"]}, 
+    {"label": "B", "type": "Letter", "Favorite Dessert": "shave ice"} 
+  ], 
+  "connections": [ 
+    {"from": "A", "to": "B", "type": "likes"} 
+  ] 
 }
