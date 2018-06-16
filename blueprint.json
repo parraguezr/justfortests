@@ -1,21 +1,9 @@
-{
-  "elements": [
-    {"label": "A"},
-    {"label": "B"},
-    {"label": "C"},
-    {"label": "D"},
-    {"label": "E"},
-    {"label": "F"},
-    {"label": "G"},
-    {"label": "H"}
-  ],
-  "connections": [
-    {"from": "A", "to": "B"},
-    {"from": "A", "to": "C"},
-    {"from": "A", "to": "D"},
-    {"from": "B", "to": "E"},
-    {"from": "B", "to": "F"},
-    {"from": "B", "to": "G"},
-    {"from": "B", "to": "C"}
-  ]
+{ 
+  "elements": [ 
+    {"label": "A"}, 
+    {"label": "B"} 
+  ], 
+  "connections": [ 
+    {"from": "A", "to": "B"} 
+  ] 
 }
