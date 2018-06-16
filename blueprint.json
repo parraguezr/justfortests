@@ -1,9 +1,9 @@
 {
   "elements": [
     {"label": "A"},
-    {"label": "Baco5a"}
+    {"label": "Baco10"}
   ],
   "connections": [
-    {"from": "A", "to": "Baco5a"}
+    {"from": "A", "to": "Baco10"}
   ]
 }
