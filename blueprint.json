@@ -1,9 +1,21 @@
-{ 
-  "elements": [ 
-    {"label": "A", "type": "Letter", "description": "This is A", "tags": ["one", "two"]}, 
-    {"label": "B", "type": "Letter", "Favorite Dessert": "shave ice"} 
-  ], 
-  "connections": [ 
-    {"from": "A", "to": "B", "type": "likes"} 
-  ] 
+{
+  "elements": [
+    {"label": "A"},
+    {"label": "B"},
+    {"label": "C"},
+    {"label": "D"},
+    {"label": "E"},
+    {"label": "F"},
+    {"label": "G"},
+    {"label": "H"}
+  ],
+  "connections": [
+    {"from": "A", "to": "B"},
+    {"from": "A", "to": "C"},
+    {"from": "A", "to": "D"},
+    {"from": "B", "to": "E"},
+    {"from": "B", "to": "F"},
+    {"from": "B", "to": "G"},
+    {"from": "B", "to": "C"}
+  ]
 }
